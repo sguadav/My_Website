@@ -1,5 +1,5 @@
 # My Website
-Personal Website using Django, CSS, and HTML
+Personal Website using Django, CSS, and HTML. Uploading soon using Heroku
 
 Resource
 -
